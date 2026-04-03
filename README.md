@@ -1,4 +1,4 @@
-<img width="1393" height="807" alt="Screenshot 2026-04-03 125816" src="https://github.com/user-attachments/assets/e890c6d8-965c-40ac-8e8e-104943d95f0e" /># Customer_Churn_Analysis
+Customer_Churn_Analysis
 Customer churn is a critical problem for subscription-based businesses, as losing customers directly impacts revenue. This project focuses on analyzing customer behavior and building predictive models to identify customers who are likely to churn.
 
 
