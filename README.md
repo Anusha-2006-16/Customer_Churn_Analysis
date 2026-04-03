@@ -183,22 +183,31 @@ I built both Random Forest and Logistic Regression models to predict customer ch
 
 <img width="1409" height="788" alt="Screenshot 2026-04-03 125944" src="https://github.com/user-attachments/assets/8d5601c8-e652-418f-9dcc-dd13853bb50b" />
 
+HEAT MAP
+
+
+<img width="724" height="390" alt="Screenshot 2026-04-03 135617" src="https://github.com/user-attachments/assets/4c3845dd-b762-43fe-ad7e-2ee866911f67" />
+
+
+<img width="951" height="793" alt="Screenshot 2026-04-03 135658" src="https://github.com/user-attachments/assets/e39580d3-c9c1-469d-869a-9865234d9325" />
 
 
 
 
 
+<img width="1204" height="750" alt="Screenshot 2026-04-03 135508" src="https://github.com/user-attachments/assets/572dd905-f6c2-469b-abb4-20f36d0593e6" />
 
 
 
+<img width="916" height="799" alt="Screenshot 2026-04-03 135539" src="https://github.com/user-attachments/assets/85131bc0-fce0-464d-b004-279c8094a299" />
+
+
+<img width="966" height="778" alt="Screenshot 2026-04-03 135546" src="https://github.com/user-attachments/assets/beee86bb-e5f4-469d-8a38-a4cee6e8bf10" />
+<img width="929" height="732" alt="Screenshot 2026-04-03 135553" src="https://github.com/user-attachments/assets/199a66f8-041f-4890-9b70-62314921fc9c" />
 
 
 
-
-
-
-
-
+<img width="999" height="772" alt="Screenshot 2026-04-03 135609" src="https://github.com/user-attachments/assets/3a5ff2e8-34c3-41f7-8ab7-387eab3216e2" />
 
 
 
